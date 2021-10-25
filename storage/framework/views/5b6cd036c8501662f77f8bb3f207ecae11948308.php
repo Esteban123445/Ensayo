@@ -1,0 +1,1 @@
+<?php /**PATH D:\laragon\www\parcial_sw1\resources\views/dashboard/partials/validation-errors.blade.php ENDPATH**/ ?>
